@@ -4,9 +4,9 @@
   - ByteDance, Instant-Messaging
   - Iflytek, Iflyrec
 - Educational experience
-  - Central South University, 2014-2018
+  - Central South University, Conmputer Science, 2014-2018
 - Skills
-  - java, golang, distributed-system
+  - java, golang, algrithom, distributed-system
 - Email
   - kkzhang1029@gmail.com
 <!---
